@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Havila Sam
-- 👀 I am an aspiring UI Developer
-- 🌱 I’m currently learning Frontend Technologies
-- 💞️ I’m looking to collaborate on any Frontend Technologies,UI/UX Designer, UI Development
+- 👀 I am an Test Engineer
+- 🌱 I’m currently learning Selenium in Java
 - 📫 Reach me at havila89@gmail.com.
 
 <!---
