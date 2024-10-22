@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Havila Sam
-- 👀 I am an Test Engineer
-- 🌱 I’m currently learning Selenium in Java
+- 👀 I am an Software Development Engineer in Test (SDET)
 - 📫 Reach me at havila89@gmail.com.
 
 <!---
